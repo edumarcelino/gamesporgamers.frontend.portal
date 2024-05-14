@@ -1,0 +1,12 @@
+.full-height-container {
+  min-height: 100vh;
+}
+
+.title-left {
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  color: white;
+}
+
